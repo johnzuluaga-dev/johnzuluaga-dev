@@ -44,15 +44,6 @@ Sistema de automatización que gestiona citas, recordatorios y estadísticas par
 
 
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=johnzuluaga-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=johnzuluaga-dev&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 <div align="center">
