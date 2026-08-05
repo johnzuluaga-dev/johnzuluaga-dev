@@ -33,8 +33,6 @@ Sistema de automatización que gestiona citas, recordatorios y estadísticas par
 
 
 
-## 📊 Estadísticas de GitHub
-
 
 ---
 
