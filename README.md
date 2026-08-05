@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Desarrollador+Frontend+%F0%9F%92%BB;React+%7C+TypeScript+%7C+Node.js;Automatizaci%C3%B3n+con+IA+y+n8n+%F0%9F%A4%96;Aprendiendo+cada+d%C3%ADa+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhonfernando-zuluaga-gomez)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnzuluaga-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnfernandozuluaga1234@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=johnzuluaga-dev&color=2563EB&style=for-the-badge&label=Visitas+al+perfil)](https://github.com/johnzuluaga-dev)
 
