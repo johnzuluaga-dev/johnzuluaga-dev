@@ -24,8 +24,7 @@ Desarrollador Frontend enfocado en crear interfaces web modernas, funcionales y 
 
 <div align="center">
 
-![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Figma](https://skillicons.dev/icons?i=figma) ![Postman](https://skillicons.dev/icons?i=postman) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Vite](https://skillicons.dev/icons?i=vite)
-
+![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![Node.js](https://skillicons.dev/icons?i=nodejs)  ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) 
 </div>
 
 **IA & Automatización:** `n8n Workflows` `Integración de APIs de IA` `Supabase`
